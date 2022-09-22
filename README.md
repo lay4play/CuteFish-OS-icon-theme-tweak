@@ -11,7 +11,8 @@ cmake ..
 make
 sudo make install
 ```
-
+## Status
+Currently only the Crule-dark is fully functional, if you use Crule you may have missing icons, i'll fix the Crule theme once the icon pack is completed
 ## License
 
 This project has been licensed by GPLv3.
